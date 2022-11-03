@@ -1,0 +1,69 @@
+h1{
+    font-family: "Homework";
+    text-align: center;
+    font-size: 75px;
+    background-color: blueviolet;
+
+
+}
+
+h2{
+    font-family: Homework;
+    font-size: 50px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+ol {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
+}
+
+a {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.nav{
+
+    width: 99%;
+}
+
+.nav-center{
+    display: flex;
+    margin: fill;
+
+}
+
+.image {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
+}
+
+
+.page {
+    flex: 50%;
+    width: 20%;
+    padding: 5px;
+    text-align: center;
+    font-size: large;
+
+}
